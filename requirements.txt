@@ -1,0 +1,11 @@
+google-generativeai
+bnlearn
+pgmpy
+numpy
+pandas
+scikit-learn
+python-dotenv
+pyyaml
+requests
+tqdm
+seaborn
